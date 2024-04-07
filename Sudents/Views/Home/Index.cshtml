@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Sudents.Models.Student>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<h1>Welcome to Student</h1>
+
+<p>
+    <a asp-action="Index" asp-controller="Students">View Students</a>
+</p>
+
+
+<a asp-controller="Students" asp-action="Create" class="btn btn-primary">Add Student</a>

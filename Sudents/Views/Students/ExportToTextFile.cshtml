@@ -1,0 +1,13 @@
+﻿
+@{
+    ViewData["Title"] = "Export to Text File";
+}
+
+<h1>Export to Text File</h1>
+
+@if (!string.IsNullOrEmpty(ViewBag.Message))
+{
+    <div class="alert alert-success" role="alert">
+        @ViewBag.Message
+    </div>
+}

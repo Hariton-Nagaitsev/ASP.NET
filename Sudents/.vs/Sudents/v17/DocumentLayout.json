@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|e:\\itmo\\asp_net\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\mvc\\finallab1\\sudents\\views\\students\\worststudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:views\\students\\worststudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|e:\\itmo\\asp_net\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\mvc\\finallab1\\sudents\\views\\students\\totalscore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:views\\students\\totalscore.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|e:\\itmo\\asp_net\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\mvc\\finallab1\\sudents\\views\\students\\exporttotextfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:views\\students\\exporttotextfile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|e:\\itmo\\asp_net\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\mvc\\finallab1\\sudents\\views\\students\\beststudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:views\\students\\beststudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|e:\\itmo\\asp_net\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\mvc\\finallab1\\sudents\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|e:\\itmo\\asp_net\\\u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\mvc\\finallab1\\sudents\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56506092-E32E-4863-A2B3-20B3E1B861F9}|Sudents.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExportToTextFile.cshtml",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\ExportToTextFile.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\ExportToTextFile.cshtml",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\ExportToTextFile.cshtml",
+              "RelativeToolTip": "Views\\Students\\ExportToTextFile.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:53:51.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BestStudents.cshtml",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\BestStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\BestStudents.cshtml",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\BestStudents.cshtml",
+              "RelativeToolTip": "Views\\Students\\BestStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:44:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T15:07:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentContext.cs",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Models\\StudentContext.cs",
+              "RelativeToolTip": "Models\\StudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:38:24.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-06T14:44:02.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:36:16.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAQwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:12:23.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TotalScore.cshtml",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\TotalScore.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\TotalScore.cshtml",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\TotalScore.cshtml",
+              "RelativeToolTip": "Views\\Students\\TotalScore.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T07:35:58.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorstStudents.cshtml",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\WorstStudents.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\WorstStudents.cshtml",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Views\\Students\\WorstStudents.cshtml",
+              "RelativeToolTip": "Views\\Students\\WorstStudents.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-07T08:00:46.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:43:36.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:16:34.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\ITMO\\ASP_NET\\\u041F\u0440\u0430\u043A\u0442\u0438\u043A\u0430\\MVC\\FinalLab1\\Sudents\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:39:32.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
